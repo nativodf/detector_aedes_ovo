@@ -1,0 +1,11 @@
+torch
+torchvision
+distinctipy
+rembg
+pillow
+numpy
+pandas
+matplotlib
+tqdm
+gradio
+onnxruntime
